@@ -18,6 +18,10 @@
                <artifactId>junit</artifactId>
                      <version>4.8.2</version>
                            <scope>test</scope>
+         <groupId>commons-collections-3.1.jar</groupId>
+               <artifactId>commons-collections-3.1.jar</artifactId>
+                     <version>3.1</version>
+                           <scope>test</scope>
    </dependency>
    </dependencies>
 </project>
